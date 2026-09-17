@@ -6,11 +6,11 @@ started: 2026-09-17
 
 # Teaching: Karriere-Coaching — Softwareberater Netzwerkoptimierung
 
-## Progress: 1/16 confirmed
+## Progress: 2/16 confirmed
 
 ### Situationsbild (Ist-Zustand)
 - [x] Aktuelle Rolle & Verantwortung konkret beschrieben — Softwareberater seit 9 J., strat. Netzwerkplanung + TMS auf proprietärem Tool; Background BWL/Sustainability + Systemdynamics-Master; technisch autodidaktisch (CS50, Math Academy Foundations 2)
-- [ ] "Geht so-so" konkretisiert (was genau läuft nicht rund)
+- [x] "Geht so-so" konkretisiert — Beispiel: 4-5 Monate Datensammlung ohne frühen Plausibilitäts-Check ("stimmen die Mengen überhaupt"), Fehler erst spät entdeckt. Ursache ist KEIN Wissensdefizit (Prinzip mehrfach gehört, sogar im Bewerbungsgespräch genannt) sondern ein Knowing-Doing-Gap: keine systematische Selbstprüfungs-Routine im Alltag, die ihn "einfängt"
 - [ ] Feedback von außen (Chef, Kunden, Kollegen) bekannt und eingeordnet
 - [ ] Abhängigkeit von proprietärem Tool vs. übertragbares Fachwissen eingeschätzt
 
