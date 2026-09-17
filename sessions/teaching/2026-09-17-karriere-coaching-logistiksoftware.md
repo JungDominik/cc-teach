@@ -6,7 +6,7 @@ started: 2026-09-17
 
 # Teaching: Karriere-Coaching — Softwareberater Netzwerkoptimierung
 
-## Progress: 3/16 confirmed
+## Progress: 4/16 confirmed
 
 ### Situationsbild (Ist-Zustand)
 - [x] Aktuelle Rolle & Verantwortung konkret beschrieben — Softwareberater seit 9 J., strat. Netzwerkplanung + TMS auf proprietärem Tool; Background BWL/Sustainability + Systemdynamics-Master; technisch autodidaktisch (CS50, Math Academy Foundations 2)
@@ -23,7 +23,7 @@ started: 2026-09-17
 - [ ] Fachliche Kernfähigkeiten (OR/Netzwerkoptimierung) selbst bewertet
 - [ ] Tool-spezifische vs. transferierbare Skills unterschieden
 - [ ] Lücke zwischen heutigem und Ziel-Skillset benannt
-- [ ] Relevante Softskills (Stakeholder-Mgmt, Vertrieb, Präsentation) bewertet
+- [x] Relevante Softskills (Stakeholder-Mgmt, Vertrieb, Präsentation) bewertet — Kernbefund: keine Präsentationstechnik-Schwäche, sondern Priorisierungs-/Synthese-Lücke ("alles scheint gleich wichtig"). Hat Bits & Pieces, aber nicht klar was zählt → erklärt Feedback "durchdringen" & "großes Ganzes im Blick haben" sowie Status-Kommunikationsproblem gemeinsam
 
 ### Karrierekapital
 - [ ] Sichtbare Nachweise (Case Studies, Referenzen, messbare Erfolge) identifiziert
