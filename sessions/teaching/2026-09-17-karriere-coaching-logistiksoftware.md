@@ -6,7 +6,7 @@ started: 2026-09-17
 
 # Teaching: Karriere-Coaching — Softwareberater Netzwerkoptimierung
 
-## Progress: 14/17 confirmed
+## Progress: 15/17 confirmed
 
 ### Situationsbild (Ist-Zustand)
 - [x] Aktuelle Rolle & Verantwortung konkret beschrieben — Softwareberater seit 9 J., strat. Netzwerkplanung + TMS auf proprietärem Tool; Background BWL/Sustainability + Systemdynamics-Master; technisch autodidaktisch (CS50, Math Academy Foundations 2)
@@ -26,14 +26,14 @@ started: 2026-09-17
 - [x] Relevante Softskills (Stakeholder-Mgmt, Vertrieb, Präsentation) bewertet — Kernbefund: keine Präsentationstechnik-Schwäche, sondern Priorisierungs-/Synthese-Lücke ("alles scheint gleich wichtig"). Hat Bits & Pieces, aber nicht klar was zählt → erklärt Feedback "durchdringen" & "großes Ganzes im Blick haben" sowie Status-Kommunikationsproblem gemeinsam
 
 ### Karrierekapital
-- [ ] Sichtbare Nachweise (Case Studies, Referenzen, messbare Erfolge) identifiziert
+- [x] Sichtbare Nachweise (Case Studies, Referenzen, messbare Erfolge) identifiziert — Webinar mit Kunde über Projekt/Software selbst gehalten, sehr positiv; ein weiteres Kunden-Webinar mit positivem Feedback (nicht selbst gehalten); eigene Projekte werden firmenintern als Case-Study-Material angefragt. Vorhanden, aber bisher überwiegend firmen-/fremdgetrieben statt selbst proaktiv nach außen getragen
 - [ ] Marktfähigkeit außerhalb der aktuellen Firma eingeschätzt
 - [x] Netzwerk/Sichtbarkeit im Feld (intern & extern) bewertet — schwach in beiden Dimensionen (intern & extern), keine guten Verbindungen zu Entscheider:innen; Selbsteinschätzung, noch nicht nach "keine Kontakte" vs. "Kontakte ungenutzt" differenziert
 - [ ] Nächster konkreter Schritt zum Karrierekapital-Aufbau benannt
 
 ### Ursachen (emotional/IFS-informiert)
 - [x] Ursache für Vermeidung von Sichtbarkeit/Anerkennung (welcher "Teil", wovor schützt er) benannt — Angst vor "Durchschautwerden" als nicht so intelligent/kompetent wie dargestellt (Impostor-Dynamik); Vergleich mit Chef ("schnallt Dinge schneller") füttert das. Ein Teil schützt vor dieser Scham, indem er Sichtbarkeit vermeidet
-- [x] Ursache für fehlenden Check-/Qualitäts-Reflex (welcher "Teil", wovor schützt er) benannt — Arbeitshypothese (Nutzer: noch nicht abschließend, weiter beobachten): zwei mögliche Treiber (a) "ein wirklich Schlauer bräuchte keine Checkliste" (b) Vermeidung der Konfrontation mit "das ist nicht perfekt". Für künftige /teach-Sessions offen halten und weiter beobachten
+- [x] Ursache für fehlenden Check-/Qualitäts-Reflex (welcher "Teil", wovor schützt er) benannt — Arbeitshypothese (Nutzer: noch nicht abschließend, weiter beobachten): zwei mögliche Treiber (a) "ein wirklich Schlauer bräuchte keine Checkliste" (b) Vermeidung der Konfrontation mit "das ist nicht perfekt". WICHTIGES UPDATE: Nutzer liebt Checklisten/Habits privat (z.B. Schlüssel an Tür klopfen beim Verlassen) → spricht gegen (a), stärkt (b): es geht spezifisch um Checks in sichtbarer/beurteilter Arbeit, nicht um Checklisten generell. Für künftige /teach-Sessions offen halten und weiter beobachten
 
 ---
 *Last updated: 2026-09-17*
