@@ -6,7 +6,7 @@ started: 2026-09-17
 
 # Teaching: Karriere-Coaching — Softwareberater Netzwerkoptimierung
 
-## Progress: 8/16 confirmed
+## Progress: 9/16 confirmed
 
 ### Situationsbild (Ist-Zustand)
 - [x] Aktuelle Rolle & Verantwortung konkret beschrieben — Softwareberater seit 9 J., strat. Netzwerkplanung + TMS auf proprietärem Tool; Background BWL/Sustainability + Systemdynamics-Master; technisch autodidaktisch (CS50, Math Academy Foundations 2)
@@ -16,7 +16,7 @@ started: 2026-09-17
 
 ### Zielbild (Soll-Zustand)
 - [x] Zielrolle/-position in 2–3 Jahren benannt — Richtung Fachautorität/Principal-Track (60% echte Energie für Tiefe, 40% Verantwortungsvermeidung — bewusst benannt), Domäne bewusst breiter als nur strat. Netzwerkoptimierung: Richtung Supply Chain/Operations, generisches OR-/Analytics-Fundament als Rückgrat statt Führungslaufbahn
-- [ ] Definition von "es ist gut" (konkrete Kriterien, nicht nur Gefühl)
+- [x] Definition von "es ist gut" (konkrete Kriterien, nicht nur Gefühl) — 95k€ bei 4-Tage-Woche, an 3/4 Tagen fertig um 16:30, nur angenehme/lukrative Kunden. Ambivalenz bei Anerkennung/Sichtbarkeit: behauptet Gleichgültigkeit, vermutet aber selbst instrumentellen Bedarf dafür fürs Weiterkommen — Spannung zum gewählten Fachautoritäts-Pfad (der Sichtbarkeit braucht), bewusst offen gehalten
 - [ ] Zeithorizont und Dringlichkeit für Veränderung geklärt
 
 ### Kernfähigkeiten
