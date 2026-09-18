@@ -6,7 +6,7 @@ started: 2026-09-17
 
 # Teaching: Karriere-Coaching — Softwareberater Netzwerkoptimierung
 
-## Progress: 15/17 confirmed
+## Progress: 16/17 confirmed
 
 ### Situationsbild (Ist-Zustand)
 - [x] Aktuelle Rolle & Verantwortung konkret beschrieben — Softwareberater seit 9 J., strat. Netzwerkplanung + TMS auf proprietärem Tool; Background BWL/Sustainability + Systemdynamics-Master; technisch autodidaktisch (CS50, Math Academy Foundations 2)
@@ -27,7 +27,7 @@ started: 2026-09-17
 
 ### Karrierekapital
 - [x] Sichtbare Nachweise (Case Studies, Referenzen, messbare Erfolge) identifiziert — Webinar mit Kunde über Projekt/Software selbst gehalten, sehr positiv; ein weiteres Kunden-Webinar mit positivem Feedback (nicht selbst gehalten); eigene Projekte werden firmenintern als Case-Study-Material angefragt. Vorhanden, aber bisher überwiegend firmen-/fremdgetrieben statt selbst proaktiv nach außen getragen
-- [ ] Marktfähigkeit außerhalb der aktuellen Firma eingeschätzt
+- [x] Marktfähigkeit außerhalb der aktuellen Firma eingeschätzt — ehrlich: unbekannt/ungetestet. Hat adjazente generische Skills (Büroarbeit, Excel, Datenbanken, IT, Schnittstellen, Logistik, TMS-Systeme), aber noch nie real am Markt validiert (kein Recruiter-Gespräch, kein Interview, kein Stellenmarkt-Abgleich)
 - [x] Netzwerk/Sichtbarkeit im Feld (intern & extern) bewertet — schwach in beiden Dimensionen (intern & extern), keine guten Verbindungen zu Entscheider:innen; Selbsteinschätzung, noch nicht nach "keine Kontakte" vs. "Kontakte ungenutzt" differenziert
 - [ ] Nächster konkreter Schritt zum Karrierekapital-Aufbau benannt
 
