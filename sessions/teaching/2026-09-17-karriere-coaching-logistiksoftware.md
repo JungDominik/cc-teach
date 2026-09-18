@@ -6,7 +6,7 @@ started: 2026-09-17
 
 # Teaching: Karriere-Coaching — Softwareberater Netzwerkoptimierung
 
-## Progress: 14/18 confirmed
+## Progress: 14/17 confirmed
 
 ### Situationsbild (Ist-Zustand)
 - [x] Aktuelle Rolle & Verantwortung konkret beschrieben — Softwareberater seit 9 J., strat. Netzwerkplanung + TMS auf proprietärem Tool; Background BWL/Sustainability + Systemdynamics-Master; technisch autodidaktisch (CS50, Math Academy Foundations 2)
