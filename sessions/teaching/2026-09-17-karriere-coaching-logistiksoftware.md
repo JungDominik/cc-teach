@@ -6,7 +6,7 @@ started: 2026-09-17
 
 # Teaching: Karriere-Coaching — Softwareberater Netzwerkoptimierung
 
-## Progress: 12/18 confirmed
+## Progress: 14/18 confirmed
 
 ### Situationsbild (Ist-Zustand)
 - [x] Aktuelle Rolle & Verantwortung konkret beschrieben — Softwareberater seit 9 J., strat. Netzwerkplanung + TMS auf proprietärem Tool; Background BWL/Sustainability + Systemdynamics-Master; technisch autodidaktisch (CS50, Math Academy Foundations 2)
@@ -32,8 +32,8 @@ started: 2026-09-17
 - [ ] Nächster konkreter Schritt zum Karrierekapital-Aufbau benannt
 
 ### Ursachen (emotional/IFS-informiert)
-- [ ] Ursache für Vermeidung von Sichtbarkeit/Anerkennung (welcher "Teil", wovor schützt er) benannt
-- [ ] Ursache für fehlenden Check-/Qualitäts-Reflex (welcher "Teil", wovor schützt er) benannt
+- [x] Ursache für Vermeidung von Sichtbarkeit/Anerkennung (welcher "Teil", wovor schützt er) benannt — Angst vor "Durchschautwerden" als nicht so intelligent/kompetent wie dargestellt (Impostor-Dynamik); Vergleich mit Chef ("schnallt Dinge schneller") füttert das. Ein Teil schützt vor dieser Scham, indem er Sichtbarkeit vermeidet
+- [x] Ursache für fehlenden Check-/Qualitäts-Reflex (welcher "Teil", wovor schützt er) benannt — Arbeitshypothese (Nutzer: noch nicht abschließend, weiter beobachten): zwei mögliche Treiber (a) "ein wirklich Schlauer bräuchte keine Checkliste" (b) Vermeidung der Konfrontation mit "das ist nicht perfekt". Für künftige /teach-Sessions offen halten und weiter beobachten
 
 ---
 *Last updated: 2026-09-17*
