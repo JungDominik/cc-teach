@@ -55,3 +55,23 @@ started: 2026-09-17
 2. Die firmenintern angefragten Case Studies aktiv mitgestalten (niedrig-risiko-Sichtbarkeit, Nachfrage ist schon da)
 
 **Für die nächste /teach-Session:** Wie liefen die zwei Schritte? Hat sich die Check-Vermeidungs-Hypothese (a) vs (b) geklärt? Erste Marktfähigkeits-Erfahrungswerte gesammelt (z.B. ein Recruiter-Gespräch, Stellenanzeigen-Abgleich)?
+
+## Methodik / Praktiken (aus der Session entwickelt, 2026-09-18)
+
+Grundprinzip für alle drei: Ziel ist nicht Perfektion/Vollständigkeit am Anfang (nicht möglich — "unknown unknowns" zeigen sich erst später), sondern die **Entdeckungslatenz begrenzen** — ein Problem soll maximal Tage/Wochen unbemerkt bleiben, nicht Monate.
+
+### 1. Wöchentlicher Projekt-Check (laufendes Ritual)
+**Wann:** Freitagnachmittag, 15-20 Min, pro aktivem Projekt.
+
+1. **Mengen-Plausibilität (Gate):** Summe gesamt + in Blöcken (z.B. nach Land) — stimmt das grob? Erst wenn ja, weiter zu Kosten.
+2. **Kosten-Plausibilität:** Sind die angewendeten Kosten sinnvoll/im erwarteten Rahmen?
+3. **Ein-Satz-Status:** Wo steht das Projekt gerade — ein Satz. Doppelt nützlich: auch Material für spontane Status-Fragen.
+4. **Stutzig-Punkte & Fragezeichen:** Was macht dich unsicher, was ist offen? Nur benennen, nicht lösen.
+
+Reihenfolge-Prinzip: Input-Ebene (Mengen, Standorte, Distanzen) vor allem prüfen, was darauf aufbaut (Kosten). Bei Auffälligkeit zuerst die abhängigen Inputs checken, nicht die Endergebnisse.
+
+### 2. Dünner Durchstich früh im Projekt (einmalig, zu Projektbeginn)
+Statt Monate lang vollständige Daten für alle Standorte/Carrier zu sammeln und erst dann zu modellieren: eine kleine Scheibe (z.B. 1 Land oder 1 Carrier), auch mit groben/vorläufigen Daten, einmal **komplett durch die ganze Kette ziehen** — Rohdaten → Aufbereitung → Modell → Kostenrechnung → Ergebnis. Ergebnis darf grob/falsch sein; Zweck ist zu prüfen, ob die Kette strukturell zusammenpasst (z.B. fehlende Felder, inkompatible Formate). Holt Strukturprobleme um Monate nach vorne.
+
+### 3. Triangulations-Anker bei der Datenanfrage (Projektstart, Kundengespräch)
+Bei "was brauchen wir für Daten" von Anfang an mit erfragen: eine unabhängige Referenzgröße, von der der Kunde sicher weiß, dass sie stimmt (z.B. Jahresvolumen laut Buchhaltung, Gesamtkosten laut Controlling). Gegen diese Referenz werden später die granularen Daten gehalten (Triangulation). Verhindert, dass Plausibilität nur "aus dem Bauch" bewertet wird.
